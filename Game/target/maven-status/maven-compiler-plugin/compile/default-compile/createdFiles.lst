@@ -1,0 +1,13 @@
+com\mycompany\game\Game.class
+com\mycompany\game\GameLoop.class
+com\mycompany\game\Market.class
+com\mycompany\game\Battle.class
+com\mycompany\game\Player.class
+com\mycompany\game\EnemyList.class
+com\mycompany\game\Enemy.class
+com\mycompany\game\Practice.class
+com\mycompany\game\Skill.class
+com\mycompany\game\Util.class
+com\mycompany\game\Travel.class
+com\mycompany\game\Status.class
+com\mycompany\game\Location.class
